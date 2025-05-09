@@ -40,8 +40,8 @@
 ##
 
 <div align="left">
-  <img src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg" alt="WakaTime 1" width="45%" />
-  <img src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg" alt="WakaTime 2" width="45%" />
+  <img src="[https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg](https://wakatime.com/share/@pedrofmu/764f834a-9ac2-4390-b59d-0f20ff670169.svg)" alt="WakaTime 1" width="45%" />
+  <img src="[https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg](https://wakatime.com/share/@pedrofmu/6a371dfc-6533-4859-8771-4417cb868423.svg)" alt="WakaTime 2" width="45%" />
 </div>
 
 

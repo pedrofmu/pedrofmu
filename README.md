@@ -1,16 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I am Pedro Fernández</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">Hi, I am Pedro Fernández 👋</h1>
 
 ##
 
-<p align="left">Vibe coder and vibe liver</p>
+<p align="left">I am a vibe coder and vibe liver ✌️</p>
 
 ## 
 

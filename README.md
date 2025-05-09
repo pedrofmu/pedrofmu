@@ -40,7 +40,8 @@
 ##
 
 <div align="left">
-<figure><embed src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg" alt="WakaTime Stats" />
 </div>
+
 

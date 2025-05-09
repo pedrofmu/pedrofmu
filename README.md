@@ -2,9 +2,7 @@
 
 ##
 
-<p align="left">I am a vibe coder and vibe liver ✌️</p>
-
-## 
+<h3 align="left">I am a vibe coder and vibe liver ✌️</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-fern%C3%A1ndez-mu%C3%B1oz-4148a9287/" target="_blank">

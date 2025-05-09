@@ -40,7 +40,7 @@
 ##
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&display_format=time" alt="WakaTime 1" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&display_format=time&hide=other" alt="WakaTime 1" width="45%" />
 </div>
 
 

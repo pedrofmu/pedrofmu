@@ -40,8 +40,7 @@
 ##
 
 <div align="left">
-  <img src="https://wakatime.com/share/@pedrofmu/764f834a-9ac2-4390-b59d-0f20ff670169.svg" alt="WakaTime 1" width="45%" />
-  <img src="https://wakatime.com/share/@pedrofmu/6a371dfc-6533-4859-8771-4417cb868423.svg" alt="WakaTime 2" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact&display_format=time" alt="WakaTime 1" width="45%" />
 </div>
 
 

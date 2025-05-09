@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I am Pedro Fernández 👋</h1>
 
-##
-
 <h3 align="left">I am a vibe coder and vibe liver ✌️</h3>
 
 <div align="left">

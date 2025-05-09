@@ -40,6 +40,7 @@
 ##
 
 <div align="left">
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrofmu)](https://github.com/anuraghazra/github-readme-stats)]
+<figure><embed src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg"></embed></figure>
 </div>
 

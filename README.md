@@ -40,10 +40,9 @@
 ##
 
 <div align="left">
-  <img src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg" alt="WakaTime Stats" />
-    <img width="36" />
-  <img src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg" alt="WakaTime Stats" />
-    <img width="36" />
+  <img src="https://wakatime.com/share/@pedrofmu/0949d848-eeb1-42f4-8141-10e413de2dcf.svg" alt="WakaTime 1" width="45%" />
+  <img src="https://wakatime.com/share/@pedrofmu/796aa8a3-4400-45d9-9923-e6408c853d90.svg" alt="WakaTime 2" width="45%" />
 </div>
+
 
 

@@ -49,7 +49,7 @@
 ##
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pedrofmu&layout=compact&display_format=time&hide=other&langs_count=8&theme=onedark" alt="WakaTime 1" width="45%" />
+  <figure><embed src="https://wakatime.com/share/@pedrofmu/e84004e3-3c86-4653-a1b0-eaaddbb59c38.svg"></embed></figure>
 </div>
 
 

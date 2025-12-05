@@ -48,6 +48,8 @@
 
 ##
 
+<h2 align="left">Waka time stats: </h2>
+
 <img src="https://wakatime.com/share/@pedrofmu/96e031b8-d74b-410a-8a6f-ace64746ca1f.svg" width="350" alt="Wakatime stats"/>
 
 

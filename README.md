@@ -48,7 +48,8 @@
 
 ##
 
-<figure><embed src="https://wakatime.com/share/@pedrofmu/ca940b76-9681-428b-8eb0-baeb79953553.svg"></embed></figure>
-
+<div align="center">
+  <img src="https://wakatime.com/share/@pedrofmu/96e031b8-d74b-410a-8a6f-ace64746ca1f.svg" alt="Wakatime stats"/>
+</div>
 
 

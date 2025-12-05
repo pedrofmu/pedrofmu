@@ -49,7 +49,7 @@
 ##
 
 <div align="center">
-  <img src="https://wakatime.com/share/@pedrofmu/96e031b8-d74b-410a-8a6f-ace64746ca1f.svg" alt="Wakatime stats"/>
+  <img src="https://wakatime.com/share/@pedrofmu/96e031b8-d74b-410a-8a6f-ace64746ca1f.svg" width="500" alt="Wakatime stats"/>
 </div>
 
 
